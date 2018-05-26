@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="titpersonal">22sp</dimen>
+    <dimen name="marginstartend">65dp</dimen>
+    <dimen name="marginbtnevaluar">135dp</dimen>
+    <dimen name="mstartevaluacion">85dp</dimen>
+    <dimen name="nuevocheck">30dp</dimen>
+</resources>

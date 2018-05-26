@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplicación de HA</string>
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+    <string name="opcion_menu_uno">Escanear QR</string>
+    <string name="opcion_menu_dos">Personal a mi cargo</string>
+    <string name="titulopersonal">Personal a mi cargo</string>
+    <string name="ayudabusqueda">Ejemplo: Juan Gomez...</string>
+    <string name="btnevaluacion">Evaluar</string>
+</resources>
